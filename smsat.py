@@ -532,11 +532,6 @@ def Frink(number):
         return False, "api.frink.com.tr"
 
 
-# BURASI AYRİİİİİİİİİİİİİİİİİ
-
-
-
-
 
 def a101(number):
     try:
@@ -1478,7 +1473,5 @@ all_sends = 0
 success_sends = 0
 failed_sends = 0
 clear = lambda: os.system("clear")
-
-start()
 
 start()
